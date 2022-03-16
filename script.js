@@ -11,5 +11,5 @@ alert (`Saleh Hussain`)
 
  let Budget = 20
  console.log (Budget >= 30 && Budget <= 80);
- Budget = +30
+ Budget = 20+30
  console.log (Budget >= 30 && Budget <= 80);
